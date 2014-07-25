@@ -75,6 +75,10 @@ GitHub - <i class="icon-provider-github"></i> https://github.com/
 Google Drive - <i class="icon-provider-gdrive"></i> https://drive.google.com
 
 
+Test : !https://raw.github.com/jotitan/monopoly-js/gh-pages/screenshots/screenshot2.png!
+
 <!-- Marks -->
   [1]: https://github.com/ce-stepinfo-free/projet-ce
   
+
+
