@@ -40,6 +40,15 @@
         	<groupId>org.glassfish.jersey.containers.glassfish</groupId>
         	<artifactId>jersey-gf-cdi</artifactId>
         </dependency>
+        
+        <!-- test de l'application -->
+        
+        <dependency>
+        	<groupId> org.glassfish.jersey.test-framework.providers</groupId>
+        	<artifactId>jersey-test-framework-provider-external</artifactId>
+        	<scope>test</scope>
+        </dependency>
+        
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
